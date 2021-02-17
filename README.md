@@ -36,11 +36,11 @@ The following instructions allow you to compare flow packages from different env
 
 1. Open command line and navigate to the working folder
 
-        cd C:\Users\username\Desktop\FlowComparison_
+        cd C:\Users\username\Desktop\FlowComparison
 
 1. Run the following command to find out which flows are different between both environments
 
-        GnuWin32\bin\diff.exe envOne envTwo -r -y -q --suppress-common-lines_
+        GnuWin32\bin\diff.exe envOne envTwo -r -y -q --suppress-common-lines
 
 1. The output of the command will display which flows are different.
 
@@ -48,8 +48,8 @@ The following instructions allow you to compare flow packages from different env
 
 1. If you wish to view which parts of the flow are different, run the following command
 
-        GnuWin32\bin\diff.exe envOne envTwo -r -y --suppress-common-lines_
+        GnuWin32\bin\diff.exe envOne envTwo -r -y --suppress-common-lines
 
 1. The output of the command will display which lines of the file are different
 
-        Example: _&quot;value&quot;: &quot;An error has occurred in {{f\_sequen | &quot;value&quot;: &quot;An error has occured in {{f\_sequenc_
+        Example: _&quot;value&quot;: &quot;An error has occurred in {{f\_sequen | &quot;value&quot;: &quot;An error has occured in {{f\_sequenc
