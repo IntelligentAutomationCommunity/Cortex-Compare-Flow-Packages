@@ -52,4 +52,4 @@ The following instructions allow you to compare flow packages from different env
 
 1. The output of the command will display which lines of the file are different
 
-        Example: _&quot;value&quot;: &quot;An error has occurred in {{f\_sequen | &quot;value&quot;: &quot;An error has occured in {{f\_sequenc
+        Example: "value": "An error has occurred in {{f\_sequen | "value": "An error has occured in {{f\_sequenc
